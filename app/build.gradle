@@ -6,6 +6,9 @@ plugins {
 android {
     namespace 'tn.example.gamer'
     compileSdk 33
+    viewBinding {
+        enabled = true
+    }
 
     defaultConfig {
         applicationId "tn.example.gamer"

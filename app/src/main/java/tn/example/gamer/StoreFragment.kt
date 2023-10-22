@@ -8,6 +8,6 @@ import androidx.fragment.app.Fragment
 
 class StoreFragment : Fragment(){
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
-        return inflater.inflate(R.layout.store, container, false)
+        return inflater.inflate(R.layout.storebar, container, false)
     }
 }

@@ -8,7 +8,7 @@ import androidx.fragment.app.Fragment
 
 class ProfileFragment : Fragment() {
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
-        return inflater.inflate(R.layout.profil, container, false)
+        return inflater.inflate(R.layout.profilbar, container, false)
     }
 
 }

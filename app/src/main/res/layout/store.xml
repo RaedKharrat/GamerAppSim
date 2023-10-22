@@ -18,7 +18,7 @@
             android:padding="5dp">
 
             <ImageView
-                android:id="@+id/eventImage1"
+                android:id="@+id/eventImage12"
                 android:layout_width="100dp"
                 android:layout_height="150dp"
                 android:scaleType="fitCenter"
@@ -32,7 +32,7 @@
                 android:padding="16dp">
 
                 <TextView
-                    android:id="@+id/newsDescription1"
+                    android:id="@+id/newsDescription124"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="end|bottom"
@@ -48,7 +48,7 @@
                     app:layout_constraintStart_toStartOf="parent" />
 
                 <TextView
-                    android:id="@+id/eventTitle1"
+                    android:id="@+id/eventTitle123"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:gravity="center"
@@ -64,7 +64,7 @@
                     app:layout_constraintVertical_bias="0.601" />
 
                 <TextView
-                    android:id="@+id/textView12"
+                    android:id="@+id/textView1222"
                     android:layout_width="29dp"
                     android:layout_height="17dp"
                     android:text="70.0$"
@@ -106,7 +106,7 @@
             android:orientation="horizontal">
 
             <ImageView
-                android:id="@+id/eventImage1"
+                android:id="@+id/eventImage123"
                 android:layout_width="100dp"
                 android:layout_height="161dp"
                 android:scaleType="fitCenter"
@@ -120,7 +120,7 @@
                 android:padding="16dp">
 
                 <TextView
-                    android:id="@+id/newsDescription1"
+                    android:id="@+id/newsDescription11"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="end|bottom"
@@ -136,7 +136,7 @@
                     app:layout_constraintStart_toStartOf="parent" />
 
                 <TextView
-                    android:id="@+id/eventTitle1"
+                    android:id="@+id/eventTitle11"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:gravity="center"
@@ -152,7 +152,7 @@
                     app:layout_constraintVertical_bias="0.505" />
 
                 <TextView
-                    android:id="@+id/textView12"
+                    android:id="@+id/textView132"
                     android:layout_width="29dp"
                     android:layout_height="17dp"
                     android:text="70.0$"
@@ -194,7 +194,7 @@
             android:orientation="horizontal">
 
             <ImageView
-                android:id="@+id/eventImage1"
+                android:id="@+id/eventImage13"
                 android:layout_width="100dp"
                 android:layout_height="149dp"
                 android:scaleType="fitCenter"
@@ -208,7 +208,7 @@
                 android:padding="16dp">
 
                 <TextView
-                    android:id="@+id/newsDescription1"
+                    android:id="@+id/newsDescription12"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="end|bottom"
@@ -224,7 +224,7 @@
                     app:layout_constraintStart_toStartOf="parent" />
 
                 <TextView
-                    android:id="@+id/eventTitle1"
+                    android:id="@+id/eventTitle12"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:gravity="center"
@@ -240,7 +240,7 @@
                     app:layout_constraintVertical_bias="0.505" />
 
                 <TextView
-                    android:id="@+id/textView12"
+                    android:id="@+id/textView123"
                     android:layout_width="29dp"
                     android:layout_height="17dp"
                     android:text="70.0$"
